@@ -1,6 +1,6 @@
 ## Team Members
 
-We are three indie developers from Mexico hoping to start creating more video games.
+The big 4 from the border have got together to make passionate videogames and software.
 
 Find out more at [ashfallSoftware.com](https://ashfallsoftware.com/)
 
