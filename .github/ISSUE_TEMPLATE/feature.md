@@ -1,27 +1,24 @@
 ---
-name: 🚀 Feature request
-about: Got an idea? We'd love to hear it!
+
+name: 🚀 Feature / Task
+about: Propose a feature or define a piece of work
 title: ''
-labels: enhancement
+labels: ''
 assignees: ''
----
+-------------
 
-## What's the idea?
+## Summary
 
-<!-- A clear and quick description of the feature -->
+<!-- What needs to be built or changed, and why? -->
 
-## What problem does it solve?
+## Acceptance Criteria
 
-<!-- Why do you need this? What's the pain point? -->
+<!-- What must be true for this issue to be considered complete? -->
 
-## How would it work?
+* [ ]
+* [ ]
+* [ ]
 
-<!-- Describe how you imagine it working — rough is fine! -->
+## Notes
 
-## Any alternatives you've considered?
-
-<!-- Other approaches that didn't quite cut it -->
-
-## Extra context
-
-<!-- Screenshots, mockups, links, wild ideas — anything that helps -->
+<!-- Technical details, constraints, references, mockups, screenshots, etc. -->
