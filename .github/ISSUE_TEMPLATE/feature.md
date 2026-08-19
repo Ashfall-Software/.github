@@ -1,11 +1,10 @@
 ---
-
 name: 🚀 Feature / Task
 about: Propose a feature or define a piece of work
 title: ''
 labels: ''
 assignees: ''
--------------
+---
 
 ## Summary
 
